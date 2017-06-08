@@ -1,0 +1,1 @@
+This is a space for understanding and documenting Terraform as a tool for deploying AWS infrastructure

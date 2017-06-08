@@ -5,7 +5,7 @@ provider "aws" {
 }
 
 resource "aws_instance" "example" {
-  ami           = "ami-a8d2d7ce"
+  ami           = "ami-01ccc867"
   instance_type = "t2.micro"
 
   provisioner "local-exec" {
